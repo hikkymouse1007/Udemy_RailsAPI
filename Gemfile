@@ -11,6 +11,7 @@ gem 'mysql2', '>= 0.4.4'
 gem 'puma', '~> 4.1'
 gem 'pry-rails'
 gem 'jsonapi-serializer'
+gem 'jsom-pagination'
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 # gem 'jbuilder', '~> 2.7'
 # Use Redis adapter to run Action Cable in production
