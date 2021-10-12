@@ -10,6 +10,7 @@ Rspecの実行
 
 ```
 rspec spec/routing/articles_spec.rb  --format documentation
+rspec spec/requests/articles_spec.rb:48  --format documentation
 ```
 
 binding.pry
